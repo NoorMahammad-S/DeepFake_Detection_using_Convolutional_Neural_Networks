@@ -1,3 +1,5 @@
+# ```               AI & ML Project               ```
+
 # DeepFake Detection using Convolutional Neural Networks
 This repository contains the source code and documentation for a DeepFake detection project. The project leverages machine learning techniques, specifically a convolutional neural network (CNN) based on the MobileNetV2 architecture, to identify and distinguish between authentic and manipulated images.
 
